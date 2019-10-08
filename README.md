@@ -15,7 +15,7 @@ You'll need to describe your design, include a video of your paper display in op
 
 ### Part 1. Connect the Servo to your breadboard\
 Below is an image of the Servo motor wired to the breadboard.
-![Servo](/images/Servo.png)
+![Servo](/images/PartB_Servo.png)
 
 **a. Which color wires correspond to power, ground and signal?**\
 Red - Power\
@@ -40,16 +40,18 @@ for (pos = 0; pos <= 180; pos += 1) {
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+**Include a photo/movie of your raw circuit in action.**\
 Below is a photo and a video of the Servo motor being controlled by a potentiometer:
 ![Servo and Potentiometer](/images/PartC_ServoPotentiometer.png)
 
 [Potentiometer with Servo Video](https://youtu.be/eX3Z4CQxm0Q)
 
+[Potentiometer with Servo Code](/code/Servo_Potentiometer.ino)
+
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
-[Proto Puppet Video]()
+**a. Make a video of your proto puppet.**\
+[Proto Puppet Video](https://youtu.be/6kZHisoKyxQ)
 
 ## Part E. Make it your own
 
