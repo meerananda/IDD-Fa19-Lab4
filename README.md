@@ -46,7 +46,7 @@ Below is a photo and a video of the Servo motor being controlled by a potentiome
 
 [Potentiometer with Servo Video](https://youtu.be/eX3Z4CQxm0Q)
 
-[Potentiometer with Servo Code](/code/Servo_Potentiometer.ino)
+[Potentiometer with Servo Code](/code/Potentiometer_Servo.ino)
 
 ## Part D. Paper puppet
 
