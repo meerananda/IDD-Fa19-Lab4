@@ -56,7 +56,7 @@ Below is a photo and a video of the Servo motor being controlled by a potentiome
 
 ## Part E. Make it your own
 
-**a. Make a video of your final design.**
+**a. Make a video of your final design.**\
 My new paper puppet is an origami apple with a worm that comes out when the sun is up. I used a photoresistor to control the Servo motor, and when the light was brighter, the worm rose higher.
 
 [Early Worm Video](https://youtu.be/jio6CZYOgA8)
